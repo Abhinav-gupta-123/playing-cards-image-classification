@@ -1,5 +1,3 @@
-Here's a well-structured **README.md** file for your **Playing Cards Image Classification** project. You can copy and paste this directly into your repository's **README.md** file.  
-
 ---
 
 # 🃏 Playing Cards Image Classification
